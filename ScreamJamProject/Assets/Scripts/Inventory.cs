@@ -6,6 +6,7 @@ public class Inventory : MonoBehaviour
     #region Fields
     [SerializeField] int limit = 6;
     public List<GameObject> items;
+    public List<TitledText> entries;
     #endregion
 
     #region Callbacks
@@ -27,9 +28,23 @@ public class Inventory : MonoBehaviour
         return false;
     }
 
+    public void AddEntry (DiaryEntry entry) {
+        var newEntry = new TitledText();
+        newEntry.title = entry.ID();
+        newEntry.text = entry.DiaryText();
+
+        entries.Add(newEntry);
+    }
+
     public void RemoveItem (GameObject item) {
         if (items.Contains(item)) {
             items.Remove(item);
         }
     }
+}
+
+[System.Serializable]
+public struct TitledText {
+    public string title;
+    public string text;
 }

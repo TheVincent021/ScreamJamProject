@@ -1,11 +1,9 @@
-using TMPro;
 using UnityEngine;
 
 public class PlayerInteraction : MonoBehaviour
 {
     #region Fields
     [SerializeField] GameObject objectOfInterest;
-    [SerializeField] TextMeshProUGUI interactionText;
     #endregion
 
     #region Callbacks
@@ -38,10 +36,10 @@ public class PlayerInteraction : MonoBehaviour
     }
 
     void UpdateInteractionText () {
-        if (interactionText != null && objectOfInterest != null) {
-            interactionText.text = objectOfInterest.name;
+        if (objectOfInterest != null) {
+            PlayerHUD.instance.SetInteractionText(objectOfInterest.GetComponent<IInteractable>().ID());
         } else {
-            interactionText.text = "";
+            PlayerHUD.instance.SetInteractionText("");
         }
     }
 }

@@ -3,6 +3,7 @@ using UnityEngine;
 public class Door : MonoBehaviour, IInteractable
 {
     #region Fields
+    [SerializeField] string id = "Door";
     [SerializeField] bool isLocked = false;
     [SerializeField] GameObject key;
     #endregion
@@ -17,6 +18,10 @@ public class Door : MonoBehaviour, IInteractable
         }  else {
             Open();
         }
+    }
+
+    public string ID () {
+        return id;
     }
 
     void Open () {

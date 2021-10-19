@@ -3,6 +3,7 @@ using UnityEngine;
 public class Pickup : MonoBehaviour, IInteractable
 {
     #region Fields
+    [SerializeField] string id = "Pickup";
     [SerializeField] GameObject prefab;
 
     Inventory playerInventory;
@@ -22,5 +23,9 @@ public class Pickup : MonoBehaviour, IInteractable
         if (playerInventory.AddItem(prefab)) {
             Destroy(this.gameObject);
         }
+    }
+
+    public string ID () {
+        return id;
     }
 }
