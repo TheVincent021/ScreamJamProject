@@ -22,6 +22,7 @@ public class Inventory : MonoBehaviour
     public bool AddItem (GameObject item) {
         if (items.Count < limit) {
             items.Add(item);
+            PlayerHUD.instance.UpdateIcons();
             return true;
         }
         // Display a message saying that inventory is full
@@ -39,6 +40,7 @@ public class Inventory : MonoBehaviour
     public void RemoveItem (GameObject item) {
         if (items.Contains(item)) {
             items.Remove(item);
+            PlayerHUD.instance.UpdateIcons();
         }
     }
 }
