@@ -419,7 +419,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 'Prototype Key '
   prefab: {fileID: 26826550360392670, guid: 37927c728befe834ab66dbe13d8fc7cb, type: 3}
-  icon: {fileID: 21300000, guid: 443d05f2a4ae81a4297ac8ec762644c3, type: 3}
 --- !u!58 &261418344
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -1418,11 +1417,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!224 &1519030752 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 1519030752, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}
-  m_PrefabInstance: {fileID: 6060391625826039736}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1520448709
 GameObject:
   m_ObjectHideFlags: 0
@@ -2637,10 +2631,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1519030751, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}
-      propertyPath: m_Name
-      value: ItemIcons
-      objectReference: {fileID: 0}
     - target: {fileID: 6060391625943785067, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}
       propertyPath: m_Name
       value: Player
@@ -2689,13 +2679,5 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6060391627494509416, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}
-      propertyPath: itemIcon
-      value: 
-      objectReference: {fileID: 1795725774096033887, guid: 60fe56df1cdd9f6499938f44ef4ffe85, type: 3}
-    - target: {fileID: 6060391627494509416, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}
-      propertyPath: inventoryIconsPanel
-      value: 
-      objectReference: {fileID: 1519030752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}

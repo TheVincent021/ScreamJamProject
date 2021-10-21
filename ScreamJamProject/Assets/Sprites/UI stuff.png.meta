@@ -4,40 +4,40 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 2499406104834935615
-    second: UI stuff_0
+    second: HealthBar
   - first:
       213: 8114582576716596129
-    second: UI stuff_1
+    second: Icon_Radio
   - first:
       213: -8843351601020685784
-    second: UI stuff_2
+    second: Icon_Screwdriver
   - first:
       213: -4542680074348348723
-    second: UI stuff_3
+    second: Icon_Diaries
   - first:
       213: 1634843590663040188
     second: UI stuff_4
   - first:
       213: -4400142330369106731
-    second: UI stuff_5
+    second: Panel_Diary
   - first:
       213: -1256048527129065079
-    second: UI stuff_6
+    second: Panel_Dialogue
   - first:
       213: -8175467982441310651
-    second: UI stuff_7
+    second: Portrait_Sailor
   - first:
       213: -6520602100270491402
-    second: UI stuff_8
+    second: Portrait_Butler
   - first:
       213: -226467020026507034
-    second: UI stuff_9
+    second: Portrait_Engineer
   - first:
       213: 3849949354438043176
-    second: UI stuff_10
+    second: Portrait_Boy
   - first:
       213: -5581723631784999715
-    second: UI stuff_11
+    second: Portrait_Captain
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -79,7 +79,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -135,11 +135,23 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI stuff_0
+      name: HealthBar
       rect:
         serializedVersion: 2
         x: 18
@@ -147,7 +159,7 @@ TextureImporter:
         width: 104
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -160,7 +172,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI stuff_1
+      name: Icon_Radio
       rect:
         serializedVersion: 2
         x: 288
@@ -168,7 +180,7 @@ TextureImporter:
         width: 20
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -181,7 +193,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI stuff_2
+      name: Icon_Screwdriver
       rect:
         serializedVersion: 2
         x: 14
@@ -189,7 +201,7 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -202,7 +214,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI stuff_3
+      name: Icon_Diaries
       rect:
         serializedVersion: 2
         x: 288
@@ -210,7 +222,7 @@ TextureImporter:
         width: 20
         height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,7 +243,7 @@ TextureImporter:
         width: 60
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -244,7 +256,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI stuff_5
+      name: Panel_Diary
       rect:
         serializedVersion: 2
         x: 98
@@ -252,8 +264,8 @@ TextureImporter:
         width: 134
         height: 138
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 20, z: 30, w: 10}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -265,7 +277,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI stuff_6
+      name: Panel_Dialogue
       rect:
         serializedVersion: 2
         x: 84
@@ -273,8 +285,8 @@ TextureImporter:
         width: 166
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 17, z: 15, w: 17}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -286,7 +298,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI stuff_7
+      name: Portrait_Sailor
       rect:
         serializedVersion: 2
         x: 34
@@ -294,7 +306,7 @@ TextureImporter:
         width: 68
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -307,7 +319,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI stuff_8
+      name: Portrait_Butler
       rect:
         serializedVersion: 2
         x: 128
@@ -315,7 +327,7 @@ TextureImporter:
         width: 68
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -328,7 +340,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI stuff_9
+      name: Portrait_Engineer
       rect:
         serializedVersion: 2
         x: 226
@@ -336,7 +348,7 @@ TextureImporter:
         width: 68
         height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -349,7 +361,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI stuff_10
+      name: Portrait_Boy
       rect:
         serializedVersion: 2
         x: 322
@@ -357,7 +369,7 @@ TextureImporter:
         width: 68
         height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -370,7 +382,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI stuff_11
+      name: Portrait_Captain
       rect:
         serializedVersion: 2
         x: 416
@@ -378,7 +390,7 @@ TextureImporter:
         width: 72
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
