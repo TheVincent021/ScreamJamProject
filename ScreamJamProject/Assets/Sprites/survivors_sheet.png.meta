@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: 1eb2da040533118449d7fffc4a9e65c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5665331490090736925
+    second: survivors_sheet_0
+  - first:
+      213: 4096599092212436689
+    second: survivors_sheet_1
+  - first:
+      213: -27432989796468224
+    second: survivors_sheet_2
+  - first:
+      213: 6821231362739209651
+    second: survivors_sheet_3
+  - first:
+      213: -4905851871185433567
+    second: survivors_sheet_4
+  - first:
+      213: -8889243966008083159
+    second: survivors_sheet_5
+  - first:
+      213: -1629950236967296036
+    second: survivors_sheet_6
+  - first:
+      213: -4026806825324024387
+    second: survivors_sheet_7
+  - first:
+      213: 8667280372331253919
+    second: survivors_sheet_8
+  - first:
+      213: 1892911991804928544
+    second: survivors_sheet_9
+  - first:
+      213: -753933965131313165
+    second: survivors_sheet_10
+  - first:
+      213: 1580271865024245215
+    second: survivors_sheet_11
+  - first:
+      213: -1438128430540832632
+    second: survivors_sheet_12
+  - first:
+      213: -8892766083929677830
+    second: survivors_sheet_13
+  - first:
+      213: 324027886449608090
+    second: survivors_sheet_14
+  - first:
+      213: 5225690780129146544
+    second: survivors_sheet_15
+  - first:
+      213: 4844353194671382212
+    second: survivors_sheet_16
+  - first:
+      213: 7367560130505577092
+    second: survivors_sheet_17
+  - first:
+      213: 1191097182078537927
+    second: survivors_sheet_18
+  - first:
+      213: 2327944012903976963
+    second: survivors_sheet_19
+  - first:
+      213: -6574471343863483081
+    second: survivors_sheet_20
+  - first:
+      213: -505019376073346673
+    second: survivors_sheet_21
+  - first:
+      213: 4518716826525062443
+    second: survivors_sheet_22
+  - first:
+      213: 8159805606132070953
+    second: survivors_sheet_23
+  - first:
+      213: 1922767954620005570
+    second: survivors_sheet_24
+  - first:
+      213: -1288278238991765408
+    second: survivors_sheet_25
+  - first:
+      213: 1173238476919876131
+    second: survivors_sheet_26
+  - first:
+      213: -1488792908113792893
+    second: survivors_sheet_27
+  - first:
+      213: 3572568225628841430
+    second: survivors_sheet_28
+  - first:
+      213: 6912689838855967691
+    second: survivors_sheet_29
+  - first:
+      213: -6461429743244579897
+    second: survivors_sheet_30
+  - first:
+      213: -4595939498181858530
+    second: survivors_sheet_31
+  - first:
+      213: -5465402421784837298
+    second: survivors_sheet_32
+  - first:
+      213: -1005189360393274544
+    second: survivors_sheet_33
+  - first:
+      213: 116045421388738320
+    second: survivors_sheet_34
+  - first:
+      213: -2825001087022490045
+    second: survivors_sheet_35
+  - first:
+      213: 2027230125451418160
+    second: survivors_sheet_36
+  - first:
+      213: 4157264082800276810
+    second: survivors_sheet_37
+  - first:
+      213: 2873184465394538759
+    second: survivors_sheet_38
+  - first:
+      213: -7180651619520050737
+    second: survivors_sheet_39
+  - first:
+      213: 5038916103925385538
+    second: survivors_sheet_40
+  - first:
+      213: -7820765284303687947
+    second: survivors_sheet_41
+  - first:
+      213: 2098080065933948935
+    second: survivors_sheet_42
+  - first:
+      213: -8663923291044736316
+    second: survivors_sheet_43
+  - first:
+      213: 7751408300780819015
+    second: survivors_sheet_44
+  - first:
+      213: 5459678108041657446
+    second: survivors_sheet_45
+  - first:
+      213: -1682009082438304727
+    second: survivors_sheet_46
+  - first:
+      213: -8415727046037454999
+    second: survivors_sheet_47
+  - first:
+      213: -2838497315237108970
+    second: survivors_sheet_48
+  - first:
+      213: -3134655309485635583
+    second: survivors_sheet_49
+  - first:
+      213: -8223229546795627529
+    second: survivors_sheet_50
+  - first:
+      213: -8302134980314354881
+    second: survivors_sheet_51
+  - first:
+      213: -3423178012355181542
+    second: survivors_sheet_52
+  - first:
+      213: -2377320704538064880
+    second: survivors_sheet_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: survivors_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 354
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d51b959fc4f9e40800000000000000
+      internalID: 5665331490090736925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 354
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de828e6b2b0ad830800000000000000
+      internalID: 4096599092212436689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 354
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00afd0457d98e9ff0800000000000000
+      internalID: -27432989796468224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 354
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b503d2b8c1e9ae50800000000000000
+      internalID: 6821231362739209651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 354
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c8e4927b9eaebb0800000000000000
+      internalID: -4905851871185433567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 354
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dbd4cc5bf03a480800000000000000
+      internalID: -8889243966008083159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 354
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3200435e04169e0800000000000000
+      internalID: -1629950236967296036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 354
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd617df688ed18c0800000000000000
+      internalID: -4026806825324024387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 354
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f901581d39d584870800000000000000
+      internalID: 8667280372331253919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 284
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0222c9e6d69f44a10800000000000000
+      internalID: 1892911991804928544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 284
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff0f30ad0d7985f0800000000000000
+      internalID: -753933965131313165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 284
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd605b73e04ee510800000000000000
+      internalID: 1580271865024245215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 284
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880493cdfcdba0ce0800000000000000
+      internalID: -1438128430540832632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 284
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affdab0dc5c869480800000000000000
+      internalID: -8892766083929677830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 284
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95462d55ad2f7400800000000000000
+      internalID: 324027886449608090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 284
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6b1afd312658840800000000000000
+      internalID: 5225690780129146544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 284
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce9ae660999a3340800000000000000
+      internalID: 4844353194671382212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 284
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4829d1857e4de3660800000000000000
+      internalID: 7367560130505577092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 214
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c092ce8390a78010800000000000000
+      internalID: 1191097182078537927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 214
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300932aeeb48e4020800000000000000
+      internalID: 2327944012903976963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 214
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73538035529c2c4a0800000000000000
+      internalID: -6574471343863483081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 214
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81757c9d8fcdf8f0800000000000000
+      internalID: -505019376073346673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 214
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b255b953305b5be30800000000000000
+      internalID: 4518716826525062443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 214
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a3ebd57f37d3170800000000000000
+      internalID: 8159805606132070953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 214
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc31a8744b0faa10800000000000000
+      internalID: 1922767954620005570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 214
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060b70964cd1f1ee0800000000000000
+      internalID: -1288278238991765408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 214
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a21adbd2e284010800000000000000
+      internalID: 1173238476919876131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380b1cfecbeb65be0800000000000000
+      internalID: -1488792908113792893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 144
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d564787fdf449130800000000000000
+      internalID: 3572568225628841430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3567f88ceceef50800000000000000
+      internalID: 6912689838855967691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 144
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb63c4f1e36456a0800000000000000
+      internalID: -6461429743244579897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 144
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1beea17061f730c0800000000000000
+      internalID: -4595939498181858530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 144
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4384fe447df624b0800000000000000
+      internalID: -5465402421784837298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bb1c93a99dc02f0800000000000000
+      internalID: -1005189360393274544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 144
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fafa722b64c9100800000000000000
+      internalID: 116045421388738320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 144
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e9ee59a749bc8d0800000000000000
+      internalID: -2825001087022490045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a9081fe0b222c10800000000000000
+      internalID: 2027230125451418160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 72
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45fccc38a191b930800000000000000
+      internalID: 4157264082800276810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709130a6c0a9fd720800000000000000
+      internalID: 2873184465394538759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 72
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc98ca29563395c90800000000000000
+      internalID: -7180651619520050737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 72
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249c77bcf73dde540800000000000000
+      internalID: 5038916103925385538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 72
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe2f5df86f077390800000000000000
+      internalID: -7820765284303687947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 72
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708325034b0ed1d10800000000000000
+      internalID: 2098080065933948935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 72
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c29b049baf83c780800000000000000
+      internalID: -8663923291044736316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 72
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7421e05e7c8829b60800000000000000
+      internalID: 7751408300780819015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cbcc9005ca4cb40800000000000000
+      internalID: 5459678108041657446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cb844b6ad48a8e0800000000000000
+      internalID: -1682009082438304727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f3a4e07d4553b80800000000000000
+      internalID: -8415727046037454999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61364651bb1ab98d0800000000000000
+      internalID: -2838497315237108970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10801d8aa977f74d0800000000000000
+      internalID: -3134655309485635583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb00c4bb4831ed80800000000000000
+      internalID: -8223229546795627529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ba405d834e8cc80800000000000000
+      internalID: -8302134980314354881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1444aa0cbd6e70d0800000000000000
+      internalID: -3423178012355181542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivors_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018c3d03a6f020fd0800000000000000
+      internalID: -2377320704538064880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
