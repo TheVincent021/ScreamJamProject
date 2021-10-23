@@ -4,6 +4,7 @@ public class Door : MonoBehaviour, IInteractable
 {
     #region Fields
     [SerializeField] string id = "Door";
+    [SerializeField] GameObject openedVersion;
     [SerializeField] bool isLocked = false;
     [SerializeField] GameObject key;
 
@@ -36,6 +37,8 @@ public class Door : MonoBehaviour, IInteractable
     }
 
     void Open () {
+        Instantiate(openedVersion, transform.position, transform.rotation, transform.parent);
+        if (GetComponent<DialogueInitiator>() != null) GetComponent<DialogueInitiator>().Activate();
         Destroy(this.gameObject);
     }
 }

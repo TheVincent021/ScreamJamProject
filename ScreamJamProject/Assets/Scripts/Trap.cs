@@ -4,6 +4,7 @@ using UnityEngine;
 public class Trap : MonoBehaviour
 {
     [SerializeField] int damage = 1;
+    [SerializeField] Sprite usedVersion;
     [SerializeField] bool continuous = false;
     [SerializeField] float delay = 1f;
 
@@ -27,7 +28,9 @@ public class Trap : MonoBehaviour
 
             if (!continuous) {
                 isUsed = true;
+                if (usedVersion != null) GetComponent<SpriteRenderer>().sprite = usedVersion;
             } else {
+                GetComponent<SpriteRenderer>().color = Color.red;
                 StartCoroutine(ContinuousDamage());
             }
         }

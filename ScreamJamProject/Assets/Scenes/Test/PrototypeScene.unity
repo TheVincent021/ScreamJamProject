@@ -1080,27 +1080,35 @@ MonoBehaviour:
   dialogueTree:
     speaker: Vincent
     text: HI! My name is Vincent. Who are you?
+    portrait: {fileID: 0}
     nextDialogues:
     - speaker: Player
       text: Hello! I'm a Panda! Noice to meet you.
+      portrait: {fileID: 0}
       nextDialogues:
       - speaker: Vincent
         text: Nice to meet you too.
+        portrait: {fileID: 0}
         nextDialogues:
         - speaker: Player
           text: Bye for now! Have a nice day.
+          portrait: {fileID: 0}
           nextDialogues:
           - speaker: Vincent
             text: Goodbye!
+            portrait: {fileID: 0}
             nextDialogues: []
     - speaker: Player
       text: None of your buisness.
+      portrait: {fileID: 0}
       nextDialogues:
       - speaker: Vincent
         text: What an asshole!
+        portrait: {fileID: 0}
         nextDialogues:
         - speaker: Player
           text: I'm done with ya!
+          portrait: {fileID: 0}
           nextDialogues: []
 --- !u!60 &1197466346
 PolygonCollider2D:
@@ -2394,6 +2402,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   id: Prototype Door
+  openedVersion: {fileID: 0}
   isLocked: 1
   key: {fileID: 26826550360392670, guid: 37927c728befe834ab66dbe13d8fc7cb, type: 3}
 --- !u!61 &2105026861
@@ -2580,7 +2589,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4536398816698801688, guid: 41f44e99de10ed044a41430518ef92e6, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 8.75
       objectReference: {fileID: 0}
     - target: {fileID: 4536398816698801688, guid: 41f44e99de10ed044a41430518ef92e6, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2631,6 +2640,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 283983078, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}
+      propertyPath: m_fontSize
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 283983078, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 791876606, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}
+      propertyPath: m_fontSize
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 791876606, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 6060391625943785067, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}
       propertyPath: m_Name
       value: Player
@@ -2645,7 +2670,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6060391625943785068, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 8.75
       objectReference: {fileID: 0}
     - target: {fileID: 6060391625943785068, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2678,6 +2703,14 @@ PrefabInstance:
     - target: {fileID: 6060391625943785068, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7849909786929216937, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}
+      propertyPath: m_fontSize
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7849909786929216937, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bd44d9fe6cc5d5d48ba74ea7863de2e4, type: 3}

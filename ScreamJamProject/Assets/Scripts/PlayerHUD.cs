@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -9,12 +10,15 @@ public class PlayerHUD : MonoBehaviour
 {
     #region Fields
     [SerializeField] bool isWindowed = false;
+    [SerializeField] Animator fadeScreen;
     [SerializeField] GameObject defaultPanel;
     [SerializeField] TextMeshProUGUI interactionText;
     [SerializeField] UIPositionLerp diaryPanel;
     [SerializeField] Vector3[] diaryPanelPositions;
     [SerializeField] TextMeshProUGUI diaryText;
     [SerializeField] UIPositionLerp dialoguePanel;
+    [SerializeField] PortraitEntry[] portraitsTable;
+    [SerializeField] Image dialoguePortrait;
     [SerializeField] Vector3[] dialoguePanelPositions;
     [SerializeField] TextMeshProUGUI dialogueText;
     [SerializeField] TextMeshProUGUI speakerText;
@@ -22,6 +26,7 @@ public class PlayerHUD : MonoBehaviour
     [SerializeField] GameObject[] dialogueOptions;
     [SerializeField] TypewriterPro typewriter;
     [SerializeField] RectTransform health;
+    [SerializeField] Animator redScreen;
     [SerializeField] UIPositionLerp diariesBookPanel;
     [SerializeField] Transform diaryEntryButtonsPanel;
     [SerializeField] GameObject diaryEntryButton;
@@ -127,11 +132,20 @@ public class PlayerHUD : MonoBehaviour
         PlayerInput.actions.Default.Enable();
         DefaultPanel(true);
         dialoguePanel.SetTargetPosition(dialoguePanelPositions[0]);
+        dialoguePortrait.enabled = false;
     }
 
     public void WriteDialogue (string speaker, string text) {
+        Sprite portrait = null;
+        foreach (var entry in portraitsTable) {
+            if (speaker == entry.key) {portrait = entry.value; break;}
+        }
+
         speakerText.text = speaker;
         typewriter.StartWriting(text);
+        dialoguePortrait.enabled = portrait == null ? false : true;
+        dialoguePortrait.sprite = portrait;
+        dialoguePortrait.color = speaker == "Radio" ? Color.black : Color.white;
     }
 
     public void ShowDialogueOptions(Dialogue[] options) {
@@ -163,6 +177,14 @@ public class PlayerHUD : MonoBehaviour
             var newIconObject = Instantiate(itemIcon, inventoryIconsPanel);
             newIconObject.GetComponent<Image>().sprite = item.GetComponent<PickupIcon>().icon;
         }
+    }
+
+    public void FadeScreen () {
+        fadeScreen.SetTrigger("Fade");
+    }
+
+    public void RedScreenFlash () {
+        redScreen.SetTrigger("Flash");
     }
 
     public bool IsTypewriterWriting () {

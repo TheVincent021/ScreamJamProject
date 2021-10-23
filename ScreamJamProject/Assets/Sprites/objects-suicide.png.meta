@@ -4,16 +4,16 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 2819464138305774176
-    second: objects-suicide_0
+    second: BearTrap_Closed
   - first:
       213: 1646665493902156179
-    second: objects-suicide_1
+    second: Toolbox_Open
   - first:
       213: -4550913635293942677
     second: objects-suicide_2
   - first:
       213: 3224094356990169061
-    second: objects-suicide_3
+    second: HangedMan
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -115,7 +115,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: objects-suicide_0
+      name: BearTrap_Closed
       rect:
         serializedVersion: 2
         x: 8
@@ -123,7 +123,7 @@ TextureImporter:
         width: 26
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -136,7 +136,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: objects-suicide_1
+      name: Toolbox_Open
       rect:
         serializedVersion: 2
         x: 46
@@ -144,7 +144,7 @@ TextureImporter:
         width: 30
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -165,7 +165,7 @@ TextureImporter:
         width: 68
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -178,7 +178,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: objects-suicide_3
+      name: HangedMan
       rect:
         serializedVersion: 2
         x: 200
@@ -186,7 +186,7 @@ TextureImporter:
         width: 20
         height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

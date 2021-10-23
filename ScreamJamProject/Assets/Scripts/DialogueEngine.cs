@@ -44,5 +44,12 @@ public class DialogueEngine : MonoBehaviour
 public struct Dialogue {
     public string speaker;
     public string text;
+    public Sprite portrait;
     public Dialogue[] nextDialogues;
+}
+
+[System.Serializable]
+public struct PortraitEntry {
+    public string key;
+    public Sprite value;
 }

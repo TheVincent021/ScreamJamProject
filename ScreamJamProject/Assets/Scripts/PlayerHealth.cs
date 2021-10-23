@@ -18,6 +18,7 @@ public class PlayerHealth : MonoBehaviour
 
     public void Damage (int damage) {
         health -= damage;
+        PlayerHUD.instance.RedScreenFlash();
         Camera.main.GetComponent<CameraShake>().Shake();
         PlayerHUD.instance.UpdateHealthBar((1f/maxHealth) * damage);
     }

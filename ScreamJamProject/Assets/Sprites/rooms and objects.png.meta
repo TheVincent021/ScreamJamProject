@@ -127,7 +127,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rooms and objects_1
+      name: Box
       rect:
         serializedVersion: 2
         x: 470
@@ -148,7 +148,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rooms and objects_2
+      name: BearTrap
       rect:
         serializedVersion: 2
         x: 504
@@ -169,7 +169,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rooms and objects_3
+      name: GlassShards
       rect:
         serializedVersion: 2
         x: 546
@@ -211,7 +211,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rooms and objects_6
+      name: DiaryPage
       rect:
         serializedVersion: 2
         x: 600
@@ -232,7 +232,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rooms and objects_7
+      name: Toolbox
       rect:
         serializedVersion: 2
         x: 630
@@ -253,7 +253,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rooms and objects_8
+      name: YellowBox(V)
       rect:
         serializedVersion: 2
         x: 672
@@ -274,7 +274,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rooms and objects_9
+      name: Barrel
       rect:
         serializedVersion: 2
         x: 704
@@ -295,7 +295,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rooms and objects_10
+      name: YellowBox(H)
       rect:
         serializedVersion: 2
         x: 730
@@ -680,8 +680,8 @@ TextureImporter:
         y: 6
         width: 106
         height: 170
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

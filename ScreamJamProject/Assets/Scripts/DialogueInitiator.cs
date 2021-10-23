@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Survivor : MonoBehaviour, IInteractable
+public class DialogueInitiator : MonoBehaviour, IInteractable
 {
     #region Fields
     [SerializeField] string id = "Survivor";
