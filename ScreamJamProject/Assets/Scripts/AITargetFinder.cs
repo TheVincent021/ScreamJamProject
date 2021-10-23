@@ -14,6 +14,7 @@ public class AITargetFinder : MonoBehaviour
     Transform target;
     Transform player;
     AIDestinationSetter m_destination;
+    SpriteRenderer m_graphics;
     #endregion
 
     #region Callbacks
@@ -27,14 +28,20 @@ public class AITargetFinder : MonoBehaviour
 
     void Update () {
         UpdateAITarget();
+        FlipGraphics();
         SearchForPlayer();
         SetTarget();
+    }
+
+    void OnTriggerEnter2D (Collider2D col) {
+        if (col.CompareTag("Player")) GetComponentInChildren<Animator>().SetTrigger("Attack");
     }
     #endregion
 
     void MakeReferences () {
         player = GameObject.FindWithTag("Player").transform;
         m_destination = GetComponent<AIDestinationSetter>();
+        m_graphics = GetComponentInChildren<SpriteRenderer>();
     }
 
     void SetInitialTarget () {
@@ -43,6 +50,14 @@ public class AITargetFinder : MonoBehaviour
 
     void UpdateAITarget () {
         m_destination.target = target;
+    }
+
+    void FlipGraphics () {
+        if (target.position.x > transform.position.x) {
+            m_graphics.flipX = true;
+        } else {
+            m_graphics.flipX = false;
+        }
     }
 
     void SearchForPlayer () {
